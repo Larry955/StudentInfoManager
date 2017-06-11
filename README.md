@@ -6,6 +6,8 @@ Functions are shown below:
 
 - **AboutForm.cs**:		"About" module
 
+![Image](https://github.com/Larry955/StudentInfoManager/blob/master/Images/关于.jpg)
+
 - **AddCourse.cs**:		Add Course
 
 ![Image](https://github.com/Larry955/StudentInfoManager/blob/master/Images/课程信息管理-添加课程.jpg)
