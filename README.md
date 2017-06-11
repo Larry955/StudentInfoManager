@@ -61,3 +61,7 @@ Functions are shown below:
 - **Delete Student**:
 
 ![Image](https://github.com/Larry955/StudentInfoManager/blob/master/Images/删除学生信息.jpg)
+
+I took about 2 days to finish this project,honestly I wrote it to help one of my high school classmate with his Final-Exam-Project...
+
+emm...sounds like a bad job.Anyway,I just want some practice...
